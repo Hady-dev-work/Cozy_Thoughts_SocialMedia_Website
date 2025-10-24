@@ -1,7 +1,11 @@
+**Code can be reviewed upon request, hidden for academic integrity*
 # Cozy Thoughts SocialMedia Platform
 A website for posting, sharing, and liking cozy thoughts
 
 Developed from scratch with a full-stack web development process, secure backend design, and user-friendly operations.
+
+## Author:
+Hady Kotifani
 
 ## Overview
 "Cozy Thoughts" is a social media platform that allows users to share short text posts (up to 200 characters), view others' posts, and like them.
