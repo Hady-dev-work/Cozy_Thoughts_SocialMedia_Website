@@ -54,7 +54,7 @@ The website allows for user authentication, post management, and persistent data
 ![PageSystem.png](/Images/PageSystem.png)
 *The pagination system is shown at the bottom, for demo purposes, only 3 posts can be seen on one page at a time (the default is 10)*
 
-![Currently Logged In As Page.png](/Images/Currently Logged In As Page.png)
+![Current_User.png](/Images/Current_User.png.png)
 *The user's username can be seen in the upper-left-hand corner of the home page when the user is logged in*
 
 ![LogOutPage.png](/Images/LogOutPage.png)
