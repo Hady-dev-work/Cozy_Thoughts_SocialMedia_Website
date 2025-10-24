@@ -40,23 +40,30 @@ The website allows for user authentication, post management, and persistent data
 ![Homepage.png](/Images/Homepage.png)
 **Figure 1**: The Homepage of the website from a guest user*
 
+
 ![CreateAccount.png](/Images/CreateAccount.png)
 **Figure 2**: *Account creation page*
+
 
 ![Postpage.png](/Images/Postpage.png)
 **Figure 3**: *A logged-in user can create posts here*
 
+
 ![Gallery.png](/Images/Gallery.png)
 **Figure 4**: *A gallery to see all user-created posts. A user may sort the post by total amount of likes or by most recently created. A user can like, post or edit, and delete their own posts*
+
 
 ![Edit.png](/Images/Edit.png)
 **Figure 5**: *A user can edit their own post within the gallery and commit it after changes are made*
 
+
 ![PageSystem.png](/Images/PageSystem.png)
 **Figure 6**: *The pagination system is shown at the bottom, for demo purposes, only 3 posts can be seen on one page at a time (the default is 10)*
 
+
 ![Current_User.png](/Images/Current_User.png)
 **Figure 7**: *The user's username can be seen in the upper-left-hand corner of the home page when the user is logged in*
+
 
 ![LogOutPage.png](/Images/LogOutPage.png)
 **Figure 8**: *The user has the option to log out when they are complete with their session*
