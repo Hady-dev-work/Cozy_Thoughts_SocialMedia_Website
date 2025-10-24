@@ -36,27 +36,27 @@ The website allows for user authentication, post management, and persistent data
 - Session management only allows authenticated users to create and modify posts
 
 ## Website Images
-![Homepage.png](Homepage.png)
+![Homepage.png](/Images/Homepage.png)
 *The Homepage of the website from a guest user*
 
-![CreateAccount.png](CreateAccount.png)
+![CreateAccount.png](/Images/CreateAccount.png)
 *Account creation page*
 
-![Postpage.png](Postpage.png)
+![Postpage.png](/Images/Postpage.png)
 *A logged-in user can create posts here*
 
-![Gallery.png](Gallery.png)
+![Gallery.png](/Images/Gallery.png)
 *A gallery to see all user-created posts. A user may sort the post by total amount of likes or by most recently created. A user can like, post or edit, and delete their own posts*
 
-![Edit.png](Edit.png)
+![Edit.png](/Images/Edit.png)
 *A user can edit their own post within the gallery and commit it after changes are made*
 
-![PageSystem.png](PageSystem.png)
+![PageSystem.png](/Images/PageSystem.png)
 *The pagination system is shown at the bottom, for demo purposes, only 3 posts can be seen on one page at a time (the default is 10)*
 
-![Currently Logged In As Page.png](Currently Logged In As Page.png)
+![Currently Logged In As Page.png](/Images/Currently Logged In As Page.png)
 *The user's username can be seen in the upper-left-hand corner of the home page when the user is logged in*
 
-![LogOutPage.png](LogOutPage.png)
+![LogOutPage.png](/Images/LogOutPage.png)
 *The user has the option to log out when they are complete with their session*
 
