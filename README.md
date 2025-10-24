@@ -1,4 +1,4 @@
-# Cozy_Thoughts_SocialMedia_Platform-Public
+# Cozy Thoughts SocialMedia Platform
 A website for posting, sharing, and liking cozy thoughts
 
 Developed from scratch with a full-stack web development process, secure backend design, and user-friendly operations.
