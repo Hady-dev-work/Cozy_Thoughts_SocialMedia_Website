@@ -1,5 +1,5 @@
 **Code can be reviewed upon request, hidden for academic integrity*
-# Cozy Thoughts SocialMedia Platform
+# Cozy Thoughts SocialMedia Website
 A website for posting, sharing, and liking cozy thoughts
 
 Developed from scratch with a full-stack web development process, secure backend design, and user-friendly operations.
