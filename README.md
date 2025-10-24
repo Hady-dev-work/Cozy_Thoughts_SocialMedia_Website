@@ -12,7 +12,7 @@ The website allows for user authentication, post management, and persistent data
 - **Backend:** Node.js with Express framework
 - **Database:** MySQL
 - **Relevant Concepts:** Routing, HTTP protocol, server-client communication
-- **Other**: Postman for testing routing and that the proper HTTP request method is returned
+- **Other**: *Postman* for testing routing and that the proper HTTP request method is returned
 
 ## Features
 
